@@ -1,5 +1,5 @@
 # My Jupyter Lite Environments is Here.
-![jupyterlite](https://taki-climb.github.io/my-jupyterlite)
+https://taki-climb.github.io/my-jupyterlite
 
 ## ✨ Try it in your browser ✨
 
